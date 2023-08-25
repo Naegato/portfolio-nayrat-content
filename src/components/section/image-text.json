@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_section_image_texts",
+  "info": {
+    "displayName": "image_text",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "type": "component",
+      "repeatable": false,
+      "component": "media.media"
+    },
+    "text": {
+      "type": "component",
+      "repeatable": false,
+      "component": "component.text"
+    },
+    "invert": {
+      "type": "boolean",
+      "default": false,
+      "required": true
+    }
+  }
+}

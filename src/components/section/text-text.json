@@ -1,0 +1,20 @@
+{
+  "collectionName": "components_section_text_texts",
+  "info": {
+    "displayName": "text_text",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "text_one": {
+      "type": "component",
+      "repeatable": false,
+      "component": "component.text"
+    },
+    "text_two": {
+      "type": "component",
+      "repeatable": false,
+      "component": "component.text"
+    }
+  }
+}

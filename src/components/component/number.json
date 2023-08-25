@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_component_numbers",
+  "info": {
+    "displayName": "number"
+  },
+  "options": {},
+  "attributes": {
+    "number": {
+      "type": "decimal",
+      "required": true
+    }
+  }
+}

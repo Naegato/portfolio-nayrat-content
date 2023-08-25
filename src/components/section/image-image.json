@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_section_image_images",
+  "info": {
+    "displayName": "image_image"
+  },
+  "options": {},
+  "attributes": {
+    "image_one": {
+      "type": "component",
+      "repeatable": false,
+      "component": "media.media"
+    },
+    "image_two": {
+      "type": "component",
+      "repeatable": false,
+      "component": "media.media"
+    }
+  }
+}

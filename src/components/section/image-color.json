@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_section_image_colors",
+  "info": {
+    "displayName": "image_color",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "type": "component",
+      "repeatable": false,
+      "component": "media.media"
+    },
+    "color": {
+      "type": "component",
+      "repeatable": true,
+      "component": "component.color",
+      "max": 4
+    },
+    "invert": {
+      "type": "boolean",
+      "default": false,
+      "required": true
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "kind": "singleType",
+  "collectionName": "settings",
+  "info": {
+    "singularName": "setting",
+    "pluralName": "settings",
+    "displayName": "Setting",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "email": {
+      "pluginOptions": {},
+      "type": "email",
+      "required": false
+    },
+    "linkedin": {
+      "pluginOptions": {},
+      "type": "string",
+      "required": false
+    },
+    "instagram": {
+      "pluginOptions": {},
+      "type": "string"
+    },
+    "behance": {
+      "pluginOptions": {},
+      "type": "string"
+    },
+    "phone": {
+      "type": "string"
+    }
+  }
+}
